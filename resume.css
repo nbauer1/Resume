@@ -1,0 +1,51 @@
+body {
+  background-color: firebrick;
+  border: 25px solid black;
+  padding: 25px;
+  margin: 25px;
+}
+h1 {
+  text-align: center;
+  color: black;
+} 
+h2{
+    text-align: center;
+    font-family: "Impact", Charcoal, sans-serif;
+}
+header {
+    
+    border: 6px solid red;
+    background-color: lightcoral;
+}
+#Info{
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+p.normal {
+  font-style: normal;
+}
+p.italic {
+  font-style: italic;
+}
+p.oblique {
+  font-style: oblique;
+}
+#RU{
+    text-align: center;
+    font-size: 20px;
+}
+#OC{
+    text-align: center;
+    font-size: 20px;
+}
+article{
+    border: 6px solid red;
+    background-color: lightcoral;
+}
+form{
+    text-align: center;
+}
+#respose{
+    width: 100%;
+    height: auto;
+}
